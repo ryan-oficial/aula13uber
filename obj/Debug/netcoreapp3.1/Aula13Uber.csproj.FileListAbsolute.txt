@@ -1,0 +1,11 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.pdb
